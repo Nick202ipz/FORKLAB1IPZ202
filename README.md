@@ -5,3 +5,7 @@ A free and open source colleciton of meshes, materials and textures. All assets 
 
 
 <a href="https://kellojo.github.io/Mesh-Kit/">Visit the Library</a>
+
+## Ліцензія
+
+Цей проект ліцензований під [MIT License](LICENSE). Будь ласка, ознайомтеся з файлом ліцензії для отримання додаткової інформації.
